@@ -22,7 +22,7 @@ public final class Scenarios {
     /** Dans l'ordre où la fenêtre de choix les propose. */
     public static final List<String> BUNDLED = List.of(
             "gros-bus", "plus-de-bus", "sans-uber", "flotte-uber", "correspondances-cheres",
-            "terminus-populaires", "ville-dense", "grande-ville", "stress-test");
+            "terminus-populaires", "ville-dense", "grande-ville", "grand-ville-pas-uber", "stress-test");
 
     private static final String DESCRIPTION_PREFIX = "# Scénario :";
 
